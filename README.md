@@ -17,5 +17,7 @@ Hello, I'm Sam!<br>✨Professional stress enjoyer✨
 
 ---
 [![](https://visitcount.itsvg.in/api?id=samjoshuacs&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<script>
+  console.log('js test');
+</script>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
