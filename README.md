@@ -7,8 +7,9 @@ Hello, I'm Sam!<br>✨Professional stress enjoyer✨
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats-liard-six-97.vercel.app/api?username=samjoshuacs&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-liard-six-97.vercel.app/api/top-langs/?username=samjoshuacs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samjoshuacs&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-liard-six-97.vercel.app/api/top-langs/?username=samjoshuacs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
