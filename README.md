@@ -6,10 +6,10 @@ Hey there! I'm Sam – your friendly neighborhood Web Developer, SEO Specialist,
 ✨ Professional Stress Enjoyer ✨  
 (Yes, I thrive on deadlines and caffeine... lots of caffeine.)  
 
-When I’m not wrestling with code or crafting killer SEO strategies, you’ll find me:  
+When I’m not wrestling with code, you’ll find me:  
 🎬 Editing videos like a cinematic wizard  
 🏃‍♂️ Running to clear my mind (or at least trying to outrun my to-do list)  
-📝 Writing stories that may never see the light of day (but hey, it’s therapeutic)  
+📝 Writing stories that may never see the light of day  
 📚 Getting lost in books and pretending it's “research”  
 🎮 Dominating virtual worlds (or getting absolutely wrecked... no in-between)  
 
