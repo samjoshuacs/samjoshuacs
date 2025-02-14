@@ -1,5 +1,17 @@
 # 💫 About Me:
-Hello, I'm Sam!<br>✨Professional stress enjoyer✨
+Hey there! I'm Sam – your friendly neighborhood Web Developer, SEO Specialist, and Video Editor!  
+🎥 I turn ideas into pixels, code into magic, and videos into masterpieces.  
+🚀 On a mission to make the web a more exciting place, one line of code at a time.  
+
+✨ Professional Stress Enjoyer ✨  
+(Yes, I thrive on deadlines and caffeine... lots of caffeine.)  
+
+When I’m not wrestling with code or crafting killer SEO strategies, you’ll find me:  
+🎬 Editing videos like a cinematic wizard  
+🏃‍♂️ Running to clear my mind (or at least trying to outrun my to-do list)  
+📝 Writing stories that may never see the light of day (but hey, it’s therapeutic)  
+📚 Getting lost in books and pretending it's “research”  
+🎮 Dominating virtual worlds (or getting absolutely wrecked... no in-between)  
 
 
 # 💻 Tech Stack:
@@ -10,15 +22,6 @@ Hello, I'm Sam!<br>✨Professional stress enjoyer✨
 ![](https://github-readme-stats-liard-six-97.vercel.app/api/top-langs/?username=samjoshuacs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
 ![](https://github-readme-stats-liard-six-97.vercel.app/api?username=samjoshuacs&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=samjoshuacs&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=samjoshuacs&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
