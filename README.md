@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Sam – your friendly neighborhood Web Developer, SEO Specialist, and Video Editor!  
+Hey there! I'm Sam – a Web Developer, SEO Specialist, and Video Editor!  
 🎥 I turn ideas into pixels, code into magic, and videos into masterpieces.  
 🚀 On a mission to make the web a more exciting place, one line of code at a time.  
 
