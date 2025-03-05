@@ -19,7 +19,7 @@ When I’m not wrestling with code, you’ll find me:
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samjoshuacs&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-liard-six-97.vercel.app/api/top-langs/?username=samjoshuacs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+![](https://github-readme-stats-liard-six-97.vercel.app/api/top-langs/?username=samjoshuacs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
 ![](https://github-readme-stats-liard-six-97.vercel.app/api?username=samjoshuacs&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ### ✍️ Random Dev Quote
