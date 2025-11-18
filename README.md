@@ -1,7 +1,7 @@
 # 💫 About Me:
-Web Developer
-SEO Specialist
-Video Editor!  
+Web Developer<br>
+SEO Specialist<br>
+Video Editor<br>  
 
-✨ Professional Stress Enjoyer ✨  
+✨ Professional Stress Enjoyer ✨  <br>
 (I thrive on deadlines and caffeine... lots of caffeine.)  
