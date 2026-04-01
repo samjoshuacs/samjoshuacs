@@ -1,7 +1,7 @@
 # 💫 About Me:
 Web Developer<br>
 SEO Specialist<br>
-Consturction Estimator<br>
+Construction Estimator<br>
 Video Editor<br>  
 
 ✨ Professional Stress Enjoyer ✨  <br>
