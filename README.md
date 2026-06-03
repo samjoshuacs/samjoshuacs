@@ -1,7 +1,6 @@
 # 💫 About Me:
-Web Developer<br>
+Full Stack Web Developer<br>
 SEO Specialist<br>
-Construction Estimator<br>
 Video Editor<br>  
 
 ✨ Professional Stress Enjoyer ✨  <br>
